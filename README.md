@@ -13,8 +13,9 @@
 - 3D computer vision projects.
 
 📫 How to reach me: 
-- 
-
-😄 Pronouns: He/Him
 - matthew.devries.13@gmail.com 
+
+😄 Pronouns: 
+- He/Him
+
 
