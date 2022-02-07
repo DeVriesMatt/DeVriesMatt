@@ -53,11 +53,6 @@
   </tr>
   <tr>
     <td valign="middle">
-      <span>Web Dev</span>
-    </td>
-  </tr>
-  <tr>
-    <td valign="middle">
       <span>Graphics</span>
     </td>
     <td valign="middle">
@@ -67,9 +62,6 @@
         <img src="https://img.shields.io/badge/TikZ-%23008080.svg?&style=flat-square&logo=latex&logoColor=white"/>
         <img src="https://img.shields.io/badge/ggplot2-%23276DC3.svg?&style=flat-square&logo=r&logoColor=white"/>
         <img src="https://img.shields.io/badge/matplotlib-%23F37626.svg?&style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Processing-%23006699.svg?&style=flat-square&logo=processingfoundation&logoColor=white"/>
-        <img src="https://img.shields.io/badge/p5-%23ED225D.svg?&style=flat-square&logo=p5dotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/WebGL-%23990000.svg?&style=flat-square&logo=webgl&logoColor=white"/>
       </div>
     </td>
   </tr>
