@@ -62,7 +62,7 @@
         <img src="https://img.shields.io/badge/TikZ-%23008080.svg?&style=flat-square&logo=latex&logoColor=white"/>
         <img src="https://img.shields.io/badge/ggplot2-%23276DC3.svg?&style=flat-square&logo=r&logoColor=white"/>
         <img src="https://img.shields.io/badge/matplotlib-%23F37626.svg?&style=flat-square&logo=python&logoColor=white"/>
-        <img src ="https://camo.githubusercontent.com/2f9c3edd9ff2d48dd262b930c3f5faf9d5956ae61661f2df1d4c941f143d36c8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506c6f746c792d2532333346344637352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d706c6f746c79266c6f676f436f6c6f723d7768697465"/>
+        <img src ="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white"/>
       </div>
     </td>
   </tr>
