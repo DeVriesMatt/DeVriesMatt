@@ -13,7 +13,9 @@
 - 3D computer vision projects.
 
 📫 How to reach me: 
-- mattdevries.ai@gmail.com
+- email: mattdevries.ai@gmail.com
+- Twitter: @devriesmatt
+- Instagram: @cansa.ai
 
 😄 Pronouns: 
 - He/Him
