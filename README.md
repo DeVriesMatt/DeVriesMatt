@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 🔭 I’m currently working on:
-- Graph-based networks to analysing 3D live cancer biology.
+- Graph-based networks to analysing 3D images of live cancer biology.
 - Interpreting graph-based models.
 
 🌱 I’m currently researching:
