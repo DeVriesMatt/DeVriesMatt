@@ -6,7 +6,7 @@
 
 🌱 I’m currently researching:
 - The role of AI in personalised cancer treatment.
-- Exploring heterogeneity in cancer tumours and its link to treatment resistance.
+- Heterogeneity in cancer tumours and its link to treatment resistance.
 
 🙋‍♂️ I’m looking to collaborate on:
 - Deep learning in cancer biology projects.
