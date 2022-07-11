@@ -1,11 +1,12 @@
 ### Hi there 👋
 
 🔭 I’m currently working on:
-- Graph-based networks to analysing 3D images of live cancer biology.
+- Graph-based networks for analysing 3D images of live cancer biology.
 - Interpreting graph-based models.
 
 🌱 I’m currently researching:
 - The role of AI in personalised cancer treatment.
+- Exploring heterogeneity in cancer tumours and its link to treatment resistance.
 
 🙋‍♂️ I’m looking to collaborate on:
 - Deep learning in cancer biology projects.
