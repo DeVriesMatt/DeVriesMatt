@@ -31,7 +31,6 @@
         <img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Java-%23007396.svg?&style=flat-square&logo=java&logoColor=white"/>
         <img src="https://img.shields.io/badge/R-%23276DC3.svg?&style=flat-square&logo=r&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Julia-%239558B2.svg?&style=flat-square&logo=Julia&logoColor=white"/>
         <img src="https://img.shields.io/badge/CUDA-%2376B900.svg?&style=flat-square&logo=nvidia&logoColor=white"/>
         <img src="https://img.shields.io/badge/SQL-%234169E1.svg?&style=flat-square&logo=postgresql&logoColor=white"/>
       </div>
