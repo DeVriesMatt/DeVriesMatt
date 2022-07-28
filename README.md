@@ -60,12 +60,12 @@
     </td>
     <td valign="middle">
       <div float="left">
-        <img src="https://img.shields.io/badge/AdobeCC-%23FF0000.svg?&style=flat-square&logo=adobe&logoColor=white"/>
+        <img src ="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white"/>
         <img src="https://img.shields.io/badge/Inkscape-%23000000.svg?&style=flat-square&logo=inkscape&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AdobeCC-%23FF0000.svg?&style=flat-square&logo=adobe&logoColor=white"/>
         <img src="https://img.shields.io/badge/TikZ-%23008080.svg?&style=flat-square&logo=latex&logoColor=white"/>
         <img src="https://img.shields.io/badge/ggplot2-%23276DC3.svg?&style=flat-square&logo=r&logoColor=white"/>
         <img src="https://img.shields.io/badge/matplotlib-%23F37626.svg?&style=flat-square&logo=python&logoColor=white"/>
-        <img src ="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white"/>
       </div>
     </td>
   </tr>
