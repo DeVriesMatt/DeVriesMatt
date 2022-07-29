@@ -17,7 +17,7 @@
 - email: mattdevries.ai@gmail.com
 - Twitter: @devriesmatt
 - Instagram: @cansa.ai
-- Please view my [website](https://devriesmatt.github.io) for my publications and more information
+- Please view my [website](https://devriesmatt.github.io) for my publications and more information.
 
 😄 Pronouns: 
 - He/Him
