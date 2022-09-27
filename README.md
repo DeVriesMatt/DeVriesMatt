@@ -1,4 +1,4 @@
-# Hello, folks! :wave:
+# Hi, all! :wave:
 
 <!-- [![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://towardsdatascience.com/@pierpaoloippolito28)
 [![Kaggle](https://img.shields.io/badge/kaggle-%2320BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/pierpaolo28) -->
