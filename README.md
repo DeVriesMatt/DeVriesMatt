@@ -10,7 +10,7 @@ I am a PhD student at the [Insitute of Cancer Research](https://www.icr.ac.uk/) 
 
 My current work focuses on developing computer vision techniques to understand live 3D cancer biology. My research interests are in Geometric Deep Learning, 3D Computer Vision, Shape Analysis and Explainable AI. 
 
-Please see my organisations - [https://github.com/Sentinal4D](Sentinal4D) and [https://github.com/MagniViT](MagniViT) - for collaborations on geometric deep learning in cancer biology, and vision transformers for classification of soft tissue sarcoma from whole slide images.
+Please see my organisations - [Sentinal4D](https://github.com/Sentinal4D) and [MagniViT](https://github.com/MagniViT) - for collaborations on geometric deep learning in cancer biology, and vision transformers for classification of soft tissue sarcoma from whole slide images.
 
 Aside from my work and research, I am an avid runner, swimmer, cyclist, and footballer. 
 
