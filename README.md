@@ -5,6 +5,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![GitHub followers](https://img.shields.io/github/followers/DeVriesMatt.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/DeVriesMatt?tab=followers)
 [![Twitter Follow](https://img.shields.io/twitter/follow/devriesmatt.svg?style=social)](https://twitter.com/devriesmatt)  
+[My website](https://mattdevries.ai)
 
 I am a PhD student at the [Insitute of Cancer Research](https://www.icr.ac.uk/) and [Imperial College London](https://www.imperial.ac.uk/) researching Deep Learning in Cancer Biology under the supervision of [Chris Bakal](https://www.icr.ac.uk/our-research/researchers-and-teams/professor-chris-bakal) and [Chris Dunsby](https://www.imperial.ac.uk/people/christopher.dunsby). My PhD is part of the CRUK [Accelerator](https://mach3cancer.org/) award. I have an undergraduate degree in Statistics from the [University of Cape Town](https://www.uct.ac.za/) and a master's degree in Artificial Intelligence from the [University of Southampton](https://www.southampton.ac.uk/).
 
