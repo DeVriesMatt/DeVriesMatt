@@ -7,15 +7,14 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/devriesmatt.svg?style=social)](https://twitter.com/devriesmatt)  
 [My website](https://mattdevries.ai)
 
-I am a PhD student at the [Insitute of Cancer Research](https://www.icr.ac.uk/) and [Imperial College London](https://www.imperial.ac.uk/) researching Deep Learning in Cancer Biology under the supervision of [Chris Bakal](https://www.icr.ac.uk/our-research/researchers-and-teams/professor-chris-bakal) and [Chris Dunsby](https://www.imperial.ac.uk/people/christopher.dunsby). My PhD is part of the CRUK [Accelerator](https://mach3cancer.org/) award. I have an undergraduate degree in Statistics from the [University of Cape Town](https://www.uct.ac.za/) and a master's degree in Artificial Intelligence from the [University of Southampton](https://www.southampton.ac.uk/).
+CTO and Co-Founder at [![Sentinal4D](www.https://www.sentinal4d.com/).
 
-My current work focuses on developing computer vision techniques to understand live 3D cancer biology. My research interests are in Geometric Deep Learning, 3D Computer Vision, Shape Analysis and Explainable AI. 
+Recently completed PhD at the [Insitute of Cancer Research](https://www.icr.ac.uk/) and [Imperial College London](https://www.imperial.ac.uk/) researching Deep Learning in Cancer Biology under the supervision of [Chris Bakal](https://www.icr.ac.uk/our-research/researchers-and-teams/professor-chris-bakal) and [Chris Dunsby](https://www.imperial.ac.uk/people/christopher.dunsby). My PhD was part of the CRUK [Accelerator](https://mach3cancer.org/) award. I have an undergraduate degree in Statistics from the [University of Cape Town](https://www.uct.ac.za/) and a master's degree in Artificial Intelligence from the [University of Southampton](https://www.southampton.ac.uk/).
 
-Please see my organisations - [Sentinal4D](https://github.com/Sentinal4D) and [MagniViT](https://github.com/MagniViT) - for my work on geometric deep learning in cancer biology, and vision transformers for classification of soft tissue sarcoma from whole slide images.
+My current work focuses on developing computer vision techniques to understand live 3D cancer biology. My research interests are in Geometric Deep Learning, 3D Computer Vision, and Explainable AI. 
+
 
 Aside from my work and research, I am an avid runner, swimmer, cyclist, and footballer. 
-
-
 
 <details>
   <summary> <b> Statistics about my profile </b> <i> (Click to expand!)</i> </summary>
